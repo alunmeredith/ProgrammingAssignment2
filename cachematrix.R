@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## makeCache creates a list of functions which store / retrieve a matrix 
+## and store / retrieve the inverse of a matrix. cacheSolve computes and 
+## caches the matrix inverse or retrieves it if it has already been cached
 
 ## Creates a special "matrix" object that can cache its inverse
 ## m is the matrix inverse if cached, x is the matrix inputted to function. 
